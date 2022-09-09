@@ -14,3 +14,4 @@ Références de lectures et chart sur des données chiffrées concernant l'impac
 ![alt text](https://github.com/janvandan/ressourcesGreen/blob/main/ressources/RepartitionParSecteurDesEmissionsDes6GazAEffetDeSerreEnFranceEn2009.png "Carbonne4 : Répartition par secteur des émissions des 6 gaz à effet de serre en France en 2009")
 
 - [X] Ah, la vache ! https://jancovici.com/publications-et-co/articles-de-presse/ah-la-vache/
+- [ ] Ruée minière au XXIè siècle - Aurore Stephant à USI 2022 - YouTube https://www.youtube.com/watch?v=i8RMX8ODWQs
