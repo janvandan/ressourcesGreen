@@ -15,3 +15,4 @@ Références de lectures et chart sur des données chiffrées concernant l'impac
 
 - [X] Ah, la vache ! https://jancovici.com/publications-et-co/articles-de-presse/ah-la-vache/
 - [ ] Ruée minière au XXIè siècle - Aurore Stephant à USI 2022 - YouTube https://www.youtube.com/watch?v=i8RMX8ODWQs
+- [ ] La face cachée de la mine - Aurore Stephant - #USI2022 https://www.linkedin.com/pulse/la-face-cach%25C3%25A9e-de-mine-aurore-stephant-usi2022-usi-events/?published=t&trackingId=sovSrAt8WnqdiINtXinHpQ%3D%3D&utm_campaign=USI%202022&utm_content=220010824&utm_medium=social&utm_source=twitter&hss_channel=tw-19073332
